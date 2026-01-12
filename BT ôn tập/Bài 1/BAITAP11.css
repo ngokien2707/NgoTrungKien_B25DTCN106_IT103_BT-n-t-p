@@ -1,0 +1,8 @@
+.alert:hover {
+  background-color: orange;
+  color: white;
+}
+.alert {
+  background-color: rgb(218, 218, 70, 0.838);
+  padding: 12px;
+}
